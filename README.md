@@ -34,7 +34,7 @@ So far we have tried to keep all the code in the repo, big free. If you detected
 | 3             | A            | Write a program to implement the concept of Stack with Push, Pop, Display and Exit operations.    |
 | 3             | B            | Write a program to convert an infix expression to postfix and prefix conversion.    |
 | 3             | C            | Write a program to implement Tower of Hanoi problem.    |
-| 5             | A            | Write a program to implement Tower of Hanoi problem.    |
+| 5             | A            | Write a program to implement bubble sort.    |
 | 5             | B            | Write a program to implement selection sort.    |
 | 5             | C            | Write a program to implement insertion sort.    |
 | 6             | A            | Write a program to implement merge sort.    |
